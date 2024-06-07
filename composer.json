@@ -1,0 +1,26 @@
+{
+    "name": "morpheusadam/elanak",
+    "description": "allinone sms sender",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Morpheus",
+            "email": "Morpheusadam95@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Morpheusadam\\Elanak\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Morpheusadam\\Elanak\\ElanakServiceProvider"
+            ]
+        }
+    }
+}
