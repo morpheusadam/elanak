@@ -5,11 +5,11 @@
 ### One fluent Laravel/PHP interface to send SMS through multiple providers — Kavenegar, Melipayamak, IPPanel, SMS.ir and Payamresan — consolidating every panel into a single repository.
 
 <p>
-  <img src="https://img.shields.io/github/license/morpheusadam/elanak?style=for-the-badge&color=4c1" alt="License" />
-  <img src="https://img.shields.io/github/stars/morpheusadam/elanak?style=for-the-badge&color=ffca28" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/morpheusadam/elanak?style=for-the-badge&color=42a5f5" alt="Forks" />
-  <img src="https://img.shields.io/github/last-commit/morpheusadam/elanak?style=for-the-badge&color=8e44ad" alt="Last commit" />
-  <img src="https://img.shields.io/github/repo-size/morpheusadam/elanak?style=for-the-badge&color=e67e22" alt="Repo size" />
+  <img src="https://img.shields.io/github/license/morpheusadam/SmsForge?style=for-the-badge&color=4c1" alt="License" />
+  <img src="https://img.shields.io/github/stars/morpheusadam/SmsForge?style=for-the-badge&color=ffca28" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/morpheusadam/SmsForge?style=for-the-badge&color=42a5f5" alt="Forks" />
+  <img src="https://img.shields.io/github/last-commit/morpheusadam/SmsForge?style=for-the-badge&color=8e44ad" alt="Last commit" />
+  <img src="https://img.shields.io/github/repo-size/morpheusadam/SmsForge?style=for-the-badge&color=e67e22" alt="Repo size" />
 </p>
 
 <p>
@@ -77,7 +77,7 @@ The following gateways are implemented under `src/Getways/`:
 ### Install the package
 
 ```bash
-composer require morpheusadam/elanak
+composer require morpheusadam/SmsForge
 ```
 
 ### Install the provider SDKs you intend to use
@@ -91,7 +91,7 @@ composer require ippanel/php-rest-sdk
 To remove Elanak later:
 
 ```bash
-composer remove morpheusadam/elanak
+composer remove morpheusadam/SmsForge
 ```
 
 ---
@@ -150,7 +150,7 @@ Change the provider simply by changing the `via()` argument:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Open an [issue](https://github.com/morpheusadam/elanak/issues) or submit a pull request to add a provider, fix a bug, or improve the documentation.
+Contributions are welcome! Open an [issue](https://github.com/morpheusadam/SmsForge/issues) or submit a pull request to add a provider, fix a bug, or improve the documentation.
 
 ## 📜 License
 
@@ -179,8 +179,8 @@ Web developer & cheerful hacker · PHP · Laravel · Go
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#morpheusadam/elanak&Date">
-  <img src="https://api.star-history.com/svg?repos=morpheusadam/elanak&type=Date" alt="elanak — Star History Chart" width="70%" />
+<a href="https://star-history.com/#morpheusadam/SmsForge&Date">
+  <img src="https://api.star-history.com/svg?repos=morpheusadam/SmsForge&type=Date" alt="elanak — Star History Chart" width="70%" />
 </a>
 
 <div align="center">
