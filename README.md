@@ -1,7 +1,5 @@
 <div align="center">
-
-# 📨 Elanak — Unified Laravel SMS Sender
-
+# 📨 SMS Forge — Unified Laravel SMS Sender
 ### One fluent Laravel/PHP interface to send SMS through multiple providers — Kavenegar, Melipayamak, IPPanel, SMS.ir and Payamresan — consolidating every panel into a single repository.
 
 <p>
